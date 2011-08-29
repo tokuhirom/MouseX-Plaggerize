@@ -1,0 +1,27 @@
+This is Perl module MouseX::Plaggerize.
+
+INSTALLATION
+
+MouseX::Plaggerize installation is straightforward. If your CPAN shell is set up,
+you should just be able to do
+
+    % cpan MouseX::Plaggerize
+
+Download it, unpack it, then build it as per the usual:
+
+    % perl Makefile.PL
+    % make && make test
+
+Then install it:
+
+    % make install
+
+DOCUMENTATION
+
+MouseX::Plaggerize documentation is available as in POD. So you can do:
+
+    % perldoc MouseX::Plaggerize
+
+to read the documentation online with your favorite pager.
+
+Tokuhiro Matsuno
